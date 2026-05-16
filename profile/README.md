@@ -1,5 +1,3 @@
-<img src="profile/assets/zistica-mark.svg" alt="Zistica" width="76" />
-
 ## Zistica
 
 Software studio in Fukuoka, Japan.
