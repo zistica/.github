@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="https://zistica.com"><img src="https://img.shields.io/badge/website-zistica.com-111?style=flat-square" alt="website"></a>
-  <img src="https://img.shields.io/badge/Tokyo-Japan-e60012?style=flat-square" alt="Tokyo, Japan">
+  <img src="https://img.shields.io/badge/Fukuoka-Japan-e60012?style=flat-square" alt="Fukuoka, Japan">
   <img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="Apache 2.0">
   <img src="https://img.shields.io/badge/building-in%20public-2ea44f?style=flat-square" alt="building in public">
 </p>
 
 ---
 
-We're **Zistica Inc.**, an independent infrastructure company in **Tokyo, Japan**. We build the
+We're **Zistica Inc.**, an independent infrastructure company in **Fukuoka, Japan**. We build the
 tools we kept wishing existed — the kind that *just work*, run on your own machine, and never
 make your data leave it. Two product lines, one principle: infrastructure should be invisible.
 
@@ -49,7 +49,7 @@ cross-tenant leaks, and destructive tool calls. One container, no account, no da
 <p align="center">
   <a href="https://zistica.com"><strong>zistica.com</strong></a> ·
   <a href="https://zistica.com">Contact</a> ·
-  Tokyo, Japan
+  Fukuoka, Japan
 </p>
 
 <p align="center"><sub>© Zistica Inc. · Engineering the infrastructure we wish existed.</sub></p>
