@@ -1,22 +1,9 @@
-<p align="center">
-  <img src="profile/assets/logo.png" alt="Zistica" width="84" height="84" />
-</p>
+<img src="profile/assets/logo.png" alt="Zistica" width="72" />
 
-<h1 align="center">Zistica</h1>
+## Zistica
 
-<p align="center"><strong>Software, built like it matters.</strong></p>
+Independent software studio in Fukuoka, Japan.
 
-<p align="center">
-  An independent studio in Fukuoka, Japan, building developer tools<br/>
-  the way they should be built — <em>local-first, no telemetry, no lock-in.</em><br/>
-  Software that earns trust instead of demanding it.
-</p>
+We build small, sharp developer tools and run them in production ourselves before anyone else has to. Local-first by default: your data stays on your machine, nothing phones home, nothing to lock you in.
 
-<p align="center">
-  We believe the best infrastructure is the kind you forget is there.<br/>
-  Fewer tools. Sharper ones. Owned by the people who run them.
-</p>
-
-<p align="center">
-  <sub>Independent · Opinionated · Built in the open — Fukuoka, Japan</sub>
-</p>
+No roadmap theater, no hype. The work shows up in the repositories.
