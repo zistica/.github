@@ -1,4 +1,4 @@
-<img src="profile/assets/logo.png" alt="Zistica" width="72" />
+<img src="profile/assets/zistica-mark.svg" alt="Zistica" width="76" />
 
 ## Zistica
 
